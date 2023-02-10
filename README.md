@@ -1,4 +1,4 @@
-Hi! I'm Michał Tarnowski, computer science student from Poland.
+# Hi! I'm Michał Tarnowski, computer science student from Poland.
 
 My main interests are mathematics and IT, but also rock music, acting, singing and dancing.
 Since 2008 I have been a member of a musical group "Stowarzyszenie Teatralne INGENIUM", with which 
