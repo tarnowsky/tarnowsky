@@ -13,4 +13,3 @@ Then, while Holidays, I read a book on Python in preparation for my Matura exam.
 I'm a patient and persistent person who pursues my goals. I like working in a group, I feel good as a leader. 
 I am creative. I can just as well follow a marked path as well as discover and invent my own.
 
-My disadvantages are: a large part of the time spent on social media, malaise when I do not stand out clearly in a given group.
