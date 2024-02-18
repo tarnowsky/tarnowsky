@@ -8,8 +8,8 @@ Currently, I am gaining valuable experience as an intern at Intel Poland. I'm am
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Michał Tarnowski](#https://www.linkedin.com/in/mtarnowski03/)
-- **GitHub:** [Check out my latest ideas. Spoiler alert - they're here.](#https://github.com/tarnowsky/)
+- **LinkedIn:** [Michał Tarnowski](https://www.linkedin.com/in/mtarnowski03/)
+- **GitHub:** [Check out my latest ideas. Spoiler alert - they're here.](https://github.com/tarnowsky/)
 
 ## 💻 Tech Stack
 
@@ -27,7 +27,7 @@ I use my this profile as a digital portfolio, documenting my work at university 
 Apart from coding, you'll find me enjoying the following:
 
 - **Theater:** Exploring the world of storytelling and character development.
-- **Music:** Listening to diverse genres and creating some tunes of my own ([Checkout my band!](#https://open.spotify.com/artist/52qiglsiqx1GQzFjU0uOxY?si=PonZ6SEHSCChYZbIrpAHpw)
+- **Music:** Listening to diverse genres and creating some tunes of my own [Checkout my band!](https://open.spotify.com/artist/52qiglsiqx1GQzFjU0uOxY?si=PonZ6SEHSCChYZbIrpAHpw)
 - **Cooking:** Experimenting with flavors and trying out new recipes.
 
 Feel free to reach out, connect, and explore my latest projects. Peace out! ✌️
