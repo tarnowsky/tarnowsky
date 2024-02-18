@@ -1,15 +1,33 @@
-# Hi! I'm Michał Tarnowski, computer science student from Poland.
+# 👋 Hello, I'm Michał Tarnowski!
 
-My main interests are mathematics and IT, but also rock music, acting, singing and dancing.
-Since 2008 I have been a member of a musical group "Stowarzyszenie Teatralne INGENIUM", with which 
-I have prepared and played several premieres and performances on stage.
-I'm also vocalist, lead guitarist and text writer in a rock band. 
-In August 2021 together we won the second place in the contest organized in belgium "Imagine Music Experience". 
+## 🚀 About Me
 
-To Computer Science brought me my Dad. On my 16th birthday He bought me books to learn Java and C, that he used to learn from.
-His passion and mindfullness was always a mystery for me and I wonder I could have so much knowladge of what I'm doing someday.
-Then, while Holidays, I read a book on Python in preparation for my Matura exam. I have written hundreds of lines of code, and here we are at the moment of writing this text.
+I'm a passionate computer science student and software engineer based in Poland. My main interests revolve around the worlds of mathematics and IT, and I find joy in exploring the realms of theater, music, and cooking.
 
-I'm a patient and persistent person who pursues my goals. I like working in a group, I feel good as a leader. 
-I am creative. I can just as well follow a marked path as well as discover and invent my own.
+Currently, I am gaining valuable experience as an intern at Intel Poland. I'm ambitious and thrive in collaborative environments, where I can contribute my skills to create something impactful.
 
+## 🌐 Connect with Me
+
+- **LinkedIn:** [Michał Tarnowski](#https://www.linkedin.com/in/mtarnowski03/)
+- **GitHub:** [Check out my latest ideas. Spoiler alert - they're here.](#https://github.com/tarnowsky/)
+
+## 💻 Tech Stack
+
+Here are some technologies I'm familiar with:
+
+- Programming Languages: C, Python, C++, Java. Some JS also (a bit)
+- Tools: Git, Visual Studio Code, Visual Studio, Batch and Bash. 
+
+## 📚 Academic and Professional Journey
+
+I use my this profile as a digital portfolio, documenting my work at university and tracking my personal development. It's my virtual time capsule where I can reflect on my journey and say, "Oh, I really was doing something!"
+
+## 🎭 Hobbies
+
+Apart from coding, you'll find me enjoying the following:
+
+- **Theater:** Exploring the world of storytelling and character development.
+- **Music:** Listening to diverse genres and creating some tunes of my own ([Checkout my band!](#https://open.spotify.com/artist/52qiglsiqx1GQzFjU0uOxY?si=PonZ6SEHSCChYZbIrpAHpw)
+- **Cooking:** Experimenting with flavors and trying out new recipes.
+
+Feel free to reach out, connect, and explore my latest projects. Peace out! ✌️
