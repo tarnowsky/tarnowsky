@@ -15,7 +15,7 @@ Currently, I am gaining valuable experience as an intern at Intel Poland. I'm am
 
 Here are some technologies I'm familiar with:
 
-- Programming Languages: C, Python, C++, Java. Some JS also (a bit)
+- Programming Languages: C, Python, C++, Java, JavaScript
 - Tools: Git, Visual Studio Code, Visual Studio, Batch and Bash. 
 
 ## 📚 Academic and Professional Journey
