@@ -1,33 +1,42 @@
-# 👋 Hello, I'm Michał Tarnowski!
+# Hello, I'm Michał Tarnowski! 👋
 
 ## 🚀 About Me
 
-I'm a passionate computer science student and software engineer based in Poland. My main interests revolve around the worlds of mathematics and IT, and I find joy in exploring the realms of theater, music, and cooking.
-
-Currently, I am gaining valuable experience as an intern at Intel Poland. I'm ambitious and thrive in collaborative environments, where I can contribute my skills to create something impactful.
+I'm a passionate Computer Science student and a Software Engineer at Intel Poland, specializing in C++ development, backend technologies, and mobile app development. I'm focused on building high-performance solutions, constantly expanding my skill set, and working on innovative projects that bridge technology and real-world needs.
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Michał Tarnowski](https://www.linkedin.com/in/mtarnowski03/)
-- **GitHub:** [Check out my latest ideas. Spoiler alert - they're here.](https://github.com/tarnowsky/)
+[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
 
 ## 💻 Tech Stack
 
-Here are some technologies I'm familiar with:
+### Core Expertise
+- **Languages:** C++, Python, C, Java, JavaScript, Dart
+- **Mobile Development:** Flutter
+- **Backend Development:** REST APIs, Python, Supabase
+- **Tools:** Git, Visual Studio Code, Visual Studio, Docker
+- **Build Systems:** CMake, Makefiles
 
-- Programming Languages: C, Python, C++, Java, JavaScript
-- Tools: Git, Visual Studio Code, Visual Studio, Batch and Bash. 
+## 📂 Current Projects
 
-## 📚 Academic and Professional Journey
+### EchoParse
+A mobile application designed to convert handwritten or scanned audiograms into digital CSV format.
 
-I use my this profile as a digital portfolio, documenting my work at university and tracking my personal development. It's my virtual time capsule where I can reflect on my journey and say, "Oh, I really was doing something!"
+**Key points:**
+- Utilizes artificial intelligence trained on thousands of professionally annotated audiograms.
+- Developed in collaboration with the Institute of Physiology and Pathology of Hearing as part of an academic project.
+- Built using Flutter, Dart, and Python.
 
-## 🎭 Hobbies
+[Project Repository](echo-parse-repo-url)
 
-Apart from coding, you'll find me enjoying the following:
+### HearMate
+A mobile solution aimed at the early detection of hearing impairments, particularly for children.
 
-- **Theater:** Exploring the world of storytelling and character development.
-- **Music:** Listening to diverse genres and creating some tunes of my own [Checkout my band!](https://open.spotify.com/artist/52qiglsiqx1GQzFjU0uOxY?si=PonZ6SEHSCChYZbIrpAHpw)
-- **Cooking:** Experimenting with flavors and trying out new recipes.
+**Key points:**
+- Conducts preliminary hearing screenings and recommends further medical consultation if needed.
+- Developed as part of an engineering project at Gdańsk University of Technology, in cooperation with the Institute of Physiology and Pathology of Hearing.
+- Built with Flutter, Dart, and Python.
 
-Feel free to reach out, connect, and explore my latest projects. Peace out! ✌️
+[Project Repository](hearmate-repo-url)
+
+Feel free to explore my repositories, follow my journey, and connect with me!
