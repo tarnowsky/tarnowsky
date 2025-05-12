@@ -6,7 +6,7 @@ I'm a passionate Computer Science student and a Software Engineer at Intel Polan
 
 ## 🌐 Connect with Me
 
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+[LinkedIn](https://www.linkedin.com/in/mtarnowski03/) | [GitHub](https://github.com/tarnowsky)
 
 ## 💻 Tech Stack
 
@@ -27,7 +27,7 @@ A mobile application designed to convert handwritten or scanned audiograms into 
 - Developed in collaboration with the Institute of Physiology and Pathology of Hearing as part of an academic project.
 - Built using Flutter, Dart, and Python.
 
-[Project Repository](echo-parse-repo-url)
+[Project Repository](https://github.com/HearMate/hear-mate-app)
 
 ### HearMate
 A mobile solution aimed at the early detection of hearing impairments, particularly for children.
@@ -37,6 +37,6 @@ A mobile solution aimed at the early detection of hearing impairments, particula
 - Developed as part of an engineering project at Gdańsk University of Technology, in cooperation with the Institute of Physiology and Pathology of Hearing.
 - Built with Flutter, Dart, and Python.
 
-[Project Repository](hearmate-repo-url)
+[Project Repository](https://github.com/HearMate/hear-mate-app)
 
 Feel free to explore my repositories, follow my journey, and connect with me!
