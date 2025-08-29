@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science student and a Software Engineer at Intel Poland, specializing in C++ development, backend technologies, and mobile app development. I'm focused on building high-performance solutions, constantly expanding my skill set, and working on innovative projects that bridge technology and real-world needs.
+Computer Science student @ Gdansk University of Technology, Software Engineer Intern @ Arista Networks and Full-Stack Developer @ Finebite, specializing in web (frontend and backend technologies) and software development. I'm focused on building high-performance solutions, constantly expanding my skill set, and working on innovative projects that bridge technology and real-world needs.
 
 ## 🌐 Connect with Me
 
@@ -11,11 +11,10 @@ I'm a passionate Computer Science student and a Software Engineer at Intel Polan
 ## 💻 Tech Stack
 
 ### Core Expertise
-- **Languages:** C++, Python, C, Java, JavaScript, Dart
-- **Mobile Development:** Flutter
-- **Backend Development:** REST APIs, Python, Supabase
-- **Tools:** Git, Visual Studio Code, Visual Studio, Docker
-- **Build Systems:** CMake, Makefiles
+- **Languages:** Java, TypeScript, Python, C++, C
+- **Mobile Development:** Flutter, Dart
+- **Backend Development:** REST APIs, Python, Java, Spring, Node, Svelte, Django
+- **Tools:** Git, Visual Studio Code, Visual Studio, Docker, JetBrains, Bash
 
 ## 📂 Current Projects
 
