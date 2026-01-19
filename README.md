@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Computer Science student @ Gdansk University of Technology, Software Engineer Intern @ Arista Networks and Full-Stack Developer @ Finebite, specializing in web (frontend and backend technologies) and software development. I'm focused on building high-performance solutions, constantly expanding my skill set, and working on innovative projects that bridge technology and real-world needs.
+Computer Science student @ Gdansk University of Technology and Full-Stack Developer @ Finebite, specializing in web (frontend and backend technologies) and software development. I'm focused on building high-performance solutions, constantly expanding my skill set, and working on innovative projects that bridge technology and real-world needs.
 
 ## 🌐 Connect with Me
 
