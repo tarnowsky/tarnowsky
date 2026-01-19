@@ -11,9 +11,9 @@ Computer Science student @ Gdansk University of Technology, Software Engineer In
 ## 💻 Tech Stack
 
 ### Core Expertise
-- **Languages:** Java, TypeScript, Python, C++, C
+- **Languages:** TypeScript, Python, SQL, Java, C++
 - **Mobile Development:** Flutter, Dart
-- **Backend Development:** REST APIs, Python, Java, Spring, Node, Svelte, Django
+- **Backend Development:** REST APIs, TS, Svelte, Python, Java, Spring, Node, Django
 - **Tools:** Git, Visual Studio Code, Visual Studio, Docker, JetBrains, Bash
 
 ## 📂 Current Projects
