@@ -2,9 +2,11 @@
 
 ## About Me
 
-Bachelor of Engineering in Computer Science @ Gdansk University of Technology  
-Master’s student in Machine Learning @ Gdansk University of Technology  
-Full-Stack Developer @ Finebite, specializing in web (frontend and backend technologies) and software development. I'm focused on building high-performance solutions, constantly expanding my skill set, and working on innovative projects that bridge technology and real-world needs.
+- **Master’s student in Machine Learning** @ Gdansk University of Technology  
+- **Bachelor of Engineering in Computer Science** @ Gdansk University of Technology  
+- **Full-Stack Developer** @ FoodieLabs
+  
+I'm focused on building high-performance solutions, constantly expanding my skill set, and working on innovative projects that bridge technology and real-world needs  
 
 ## Connect with Me
 
